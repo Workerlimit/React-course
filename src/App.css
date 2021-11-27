@@ -1,0 +1,17 @@
+.container{
+  width: 70%;
+  margin: 0 auto;
+}
+.btn{
+  padding: 10px 20px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  background: white;
+  font-size:18px;
+}
+.btn:hover{
+  cursor: pointer;
+  background: rgb(219, 219, 219);
+  transition: all 0.4s ease;
+}

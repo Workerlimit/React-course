@@ -1,0 +1,14 @@
+.login__form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 100px auto;
+}
+input{
+    padding: 5px 10px;
+    margin: 5px 0 10px;
+}
+.login__btn{
+    background: rgb(97, 161, 97);
+    margin-top: 20px;
+}
